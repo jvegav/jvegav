@@ -25,6 +25,4 @@ I love coding and learning new things every day.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvegav&show_icons=true&locale=en&layout=compact" alt="jvegav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvegav&show_icons=true&locale=en" alt="jvegav" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvegav&" alt="jvegav" /></p>
