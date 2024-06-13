@@ -1,16 +1,17 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Josue Vega
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Josue Vega
 ==================================================================================================================================
 
-Computer an software Engineering Student
+Software Engineering Student based in Colombia
 ----------------------------------------
 
-I love coding and learning new things every day.
+Passionated for coding and learning new features every day.
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [josuevegavalbuena@gmail.com](mailto:josuevegavalbuena@gmail.com)
 * 🧠  I'm learning about robotics, Web development, Data Science, Software architecture and Databases ( SQL, DBMS..)
-* 🤝  I'm open to collaborating on interesting porjects based in web or data analysis, also in any project related with robotics I'm open to help
+* 🤝  I'm open to collaborating on interesting projects based in web or data analysis, also in any project related with robotics.
 
 ### Skills
 
