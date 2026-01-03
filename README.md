@@ -36,4 +36,4 @@ I am a Software Engineering student currently pursuing a **Double Degree** betwe
 
 ##  Let's Connect!
 * **Email:** [josuevegavalbuena@gmail.com](mailto:josuevegavalbuena@gmail.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/josue-vega-valbuena/)
+* **LinkedIn:** [linkedin.com/in/josue-vega-valbuena/](https://www.linkedin.com/in/josue-vega-valbuena/)
