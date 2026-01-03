@@ -1,28 +1,39 @@
+# Hi, I'm Josue Vega :D
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Josue Vega
-==================================================================================================================================
+## Double Degree Student | Universidad de los Andes (CO) & INSA Lyon (FR)
+**Software Engineering | Full-Stack Development | Data Science**
 
-Software Engineering Student based in Lyon, France
-----------------------------------------
+---
 
-Passionated for coding and learning new features every day.
+## About Me
+I am a Software Engineering student currently pursuing a **Double Degree** between **Universidad de los Andes** (Colombia) and **INSA Lyon** (France). I specialize in building scalable Full-Stack applications and leveraging Data Science to solve sustainability and architectural challenges.
 
-* 🌍  I'm based in Lyon, France
-* ✉️  You can contact me at [josuevegavalbuena@gmail.com](mailto:josuevegavalbuena@gmail.com)
-* 🧠  I'm learning about robotics, Web development, Data Science, Software architecture and Databases ( SQL, DBMS..)
-* 🤝  I'm open to collaborating on interesting projects based in web or data analysis, also in any project related with robotics.
+*  **Based in:** Lyon, France
+*  **Current Focus:** Full-Stack Architecture, Data-driven optimization, and Database Management.
+*  **Languages:** Spanish (Native), French (Fluent/C1), English (Professional).
+*  **Open to:** Collaborating on Circular Economy platforms, Data Analysis, and Web-based Robotics interfaces.
 
-### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+##  Tech Stack
+* **Full-Stack:** JavaScript (React, Node.js), HTML5, CSS3.
+* **Data Science & Logic:** Python (Pandas, NumPy), Java, C++.
+* **Databases:** PostgreSQL, MySQL, Advanced DBMS Management.
+* **Tools:** Git, Linux, Docker, ROS.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/jvegav" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/josue-vega-valbuena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Featured Project: EcoTrade 
+**EcoTrade** is a Full-Stack circular economy web application designed to tackle sustainability challenges faced by exchange students at **INSA Lyon** and global institutions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvegav&show_icons=true&theme=dark&locale=en&layout=compact" alt="jvegav" /></p>
+* **The Problem:** International students often fall into an "acquire-discard-reacquire" cycle with household items.
+* **The Solution:** A digital platform that facilitates the reuse and sharing of items between successive generations of students.
+* **Key Goals:** * Transitioning student life into a sustainable circular economy model.
+    * Building a scalable community-driven marketplace for academic environments.
+* **Tech Stack:** React, Node JS, Spring Boot, Supabase, Vercel, Render, Java
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvegav&theme=dark" alt="jvegav" /></p>
+---
+
+##  Let's Connect!
+* **Email:** [josuevegavalbuena@gmail.com](mailto:josuevegavalbuena@gmail.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/josue-vega-valbuena/)
