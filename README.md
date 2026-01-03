@@ -10,7 +10,7 @@ I am a Software Engineering student currently pursuing a **Double Degree** betwe
 
 *  **Based in:** Lyon, France
 *  **Current Focus:** Full-Stack Architecture, Data-driven optimization, and Database Management.
-*  **Languages:** Spanish (Native), French (Fluent/C1), English (Professional).
+*  **Languages:** Spanish (Native), French (Fluent/B2), English (Professional/C1).
 *  **Open to:** Collaborating on Circular Economy platforms, Data Analysis, and Web-based Robotics interfaces.
 
 ---
